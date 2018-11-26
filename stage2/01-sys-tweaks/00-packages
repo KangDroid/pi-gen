@@ -2,6 +2,8 @@ ssh less fbset sudo psmisc strace ed ncdu crda
 console-setup keyboard-configuration debconf-utils parted unzip
 build-essential manpages-dev python bash-completion gdb pkg-config
 python-rpi.gpio v4l-utils
+python-pip
+python-virtualenv
 avahi-daemon
 lua5.1
 luajit
@@ -23,3 +25,4 @@ htop
 man-db
 policykit-1
 ssh-import-id
+git
